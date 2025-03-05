@@ -1,0 +1,19 @@
+.odd-paragraphs {
+background-color: rgb(222, 131, 146);
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#paragraph-two {
+    color: #0434c4;
+    font-size: 36px;
+}
+
+.font-adjust {
+    font-size: 24px;
+}
+
+#paragraph-four {
+    background-color: hsl(120, 72%, 83%);
+    font-weight: 700;
+}
+
